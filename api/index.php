@@ -40,6 +40,7 @@ $is_admin = (isset($_SESSION['user_email']) && $_SESSION['user_email'] == 'kenne
     <title>FeedFlow - RSS News Aggregator</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsiveness.css">
 </head>
 <body>
     <!-- Navigation -->
